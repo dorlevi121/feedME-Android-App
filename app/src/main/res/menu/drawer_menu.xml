@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile" android:title="profile"
+        android:icon="@drawable/profile_icon"/>
+    <item android:id="@+id/recipeHistory" android:title="Recipes History"
+        android:icon="@drawable/recipes_history_icon"/>
+    <item android:id="@+id/share" android:title="Share"
+        android:icon="@drawable/share_icon"/>
+    <item android:id="@+id/setting" android:title="Setting"
+        android:icon="@drawable/setting_icon"/>
+    <item android:id="@+id/logOut" android:title="Log Out"
+        android:icon="@drawable/logout_icon"/>
+
+</menu>

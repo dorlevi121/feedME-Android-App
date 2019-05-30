@@ -1,0 +1,1156 @@
+{
+  "Simple Baked Eggs": {
+    "type of meal": [
+      1,
+      0,
+      1
+    ],
+    "headline": "Simple Baked Eggs",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ck/07/12/baked-eggs-ck-1687642-x.jpg?itok=91GOGjN6",
+    "labels": [
+      {
+        "num_of_labels": "1"
+      },
+      {
+        "Yield": "6 servings (serving size: 1 egg)"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "5"
+      },
+      {
+        "butter": "1 tablespoon"
+      },
+      {
+        "eggs": "6 large"
+      },
+      {
+        "freshly ground black pepper": "1 teaspoon"
+      },
+      {
+        "salt": "3/4 teaspoon"
+      },
+      {
+        "whipping cream": "2 tablespoons"
+      }
+    ],
+    "contains": [
+      {
+        "Butter": "None"
+      },
+      {
+        "Eggs": "None"
+      },
+      {
+        "Ground": "None"
+      },
+      {
+        "Black": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Cream": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "2"
+      },
+      {
+        "instruction1)": "Preheat oven to 350\u00b0."
+      },
+      {
+        "instruction2)": "Coat each of 6 (6-ounce) ramekins or custard cups with 1/2 teaspoon butter. Break 1 egg into each prepared ramekin. Sprinkle eggs evenly with pepper and salt; spoon 1 teaspoon cream over each egg. Place ramekins in a 13 x 9-inch baking dish; add hot water to pan to a depth of 1 1/4 inches. Bake at 350\u00b0 for 25 minutes or until eggs are set."
+      }
+    ]
+  },
+  "Cauliflower Shakshuka": {
+    "type of meal": [
+      1,
+      1,
+      1
+    ],
+    "headline": "Cauliflower Shakshuka",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/mr_121917_04.jpg?itok=q3TOaP5Y",
+    "labels": [
+      {
+        "num_of_labels": "2"
+      },
+      {
+        "Total": "30 minutes"
+      },
+      {
+        "Yield": "Serves 4"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "15"
+      },
+      {
+        "olive oil": "3 tablespoons"
+      },
+      {
+        "red onion, chopped (about 1 cup)": "1 small"
+      },
+      {
+        "red bell pepper, chopped (about 1 cup)": "1 small"
+      },
+      {
+        "cloves, minced (about 1 tablespoon)": "4 garlic"
+      },
+      {
+        "tomato paste": "2 tablespoons"
+      },
+      {
+        "lower-sodium vegetable stock": "3/4 cup"
+      },
+      {
+        "red wine vinegar": "2 tablespoons"
+      },
+      {
+        "capers, drained": "1/4 cup"
+      },
+      {
+        "salt": "1/2 teaspoon"
+      },
+      {
+        "black pepper": "1/2 teaspoon"
+      },
+      {
+        "crushed red pepper": "1/2 teaspoon"
+      },
+      {
+        "can diced tomatoes": "1 (14.5-ounce)"
+      },
+      {
+        "coarsely chopped cauliflower": "2 cups"
+      },
+      {
+        "eggs": "4 large"
+      },
+      {
+        "feta cheese, crumbled": "2 ounces"
+      }
+    ],
+    "contains": [
+      {
+        "Olive": "None"
+      },
+      {
+        "Oil": "None"
+      },
+      {
+        "Red": "None"
+      },
+      {
+        "Onion": "None"
+      },
+      {
+        "Cup": "None"
+      },
+      {
+        "Red": "None"
+      },
+      {
+        "Bell": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Cup": "None"
+      },
+      {
+        "Tomato": "None"
+      },
+      {
+        "Red": "None"
+      },
+      {
+        "Wine": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Black": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Red": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Can": "None"
+      },
+      {
+        "Tomatoes": "None"
+      },
+      {
+        "Cauliflower": "None"
+      },
+      {
+        "Eggs": "None"
+      },
+      {
+        "Feta": "None"
+      },
+      {
+        "Cheese": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "4"
+      },
+      {
+        "instruction1)": "Preheat oven to 300\u00b0."
+      },
+      {
+        "instruction2)": "Heat oil in cast-iron skillet over medium heat. Add onions, red bell pepper, and garlic to pan; cook for 4-5 minutes, stirring occasionally. Add tomato paste; cook 1 minute, stirring."
+      },
+      {
+        "instruction3)": "Stir in the vegetable stock, red wine vinegar, capers, salt, black pepper, red pepper, and tomatoes. Stir in the cauliflower; simmer for 10 minutes."
+      },
+      {
+        "instruction4)": "Gently crack the eggs over the tomato mixture. Sprinkle with \u00bd of the feta cheese and transfer pan to oven. Bake at 300\u00b0 for 6-7 minutes or until eggs are just set.\u00a0Remove from oven; sprinkle with remaining feta and serve immediately."
+      }
+    ]
+  },
+  "Chocolate Rugelach": {
+    "type of meal": [
+      1,
+      1,
+      1
+    ],
+    "headline": "Chocolate Rugelach",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/chocolate-rugelach.jpg?itok=JWrwEYxa",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Active Time": "30 Mins"
+      },
+      {
+        "Total Time": "3 Hours"
+      },
+      {
+        "Yield": "Makes 48 cookies"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "10"
+      },
+      {
+        "all-purpose flour (about 9.2 ounces)": "2 cups"
+      },
+      {
+        "salt, divided": "1 teaspoon"
+      },
+      {
+        "unsalted butter, cut into small cubes": "1 cup"
+      },
+      {
+        "cream cheese, cut into small cubes": "8 ounces"
+      },
+      {
+        "granulated sugar": "3/4 cup"
+      },
+      {
+        "unsweetened cocoa powder": "2 tablespoons"
+      },
+      {
+        "cinnamon": "1 teaspoon"
+      },
+      {
+        "bittersweet chocolate, finely chopped": "8 ounces"
+      },
+      {
+        "egg, lightly beaten": "1 large"
+      },
+      {
+        "": "Coarse sugar"
+      }
+    ],
+    "contains": [
+      {
+        "Flour": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Butter": "None"
+      },
+      {
+        "Cut": "None"
+      },
+      {
+        "Small": "None"
+      },
+      {
+        "Cream": "None"
+      },
+      {
+        "Cheese": "None"
+      },
+      {
+        "Cut": "None"
+      },
+      {
+        "Small": "None"
+      },
+      {
+        "Sugar": "None"
+      },
+      {
+        "Powder": "None"
+      },
+      {
+        "Cinnamon": "None"
+      },
+      {
+        "Egg": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "6"
+      },
+      {
+        "instruction1)": "Place flour and \u00be teaspoon salt in the bowl of a food processor; pulse until combined. Add butter to flour mixture and pulse until combined. Add cream cheese; process until one large ball forms.Divide the dough evenly into 4 disks; wrap each in plastic wrap and refrigerate for at least 2 hours (up to 24 hours)."
+      },
+      {
+        "instruction2)": "Preheat oven to 350\u00b0."
+      },
+      {
+        "instruction3)": "Stir together sugar, cocoa, cinnamon, remaining \u00bc teaspoon salt, and chocolate in a medium bowl until combined."
+      },
+      {
+        "instruction4)": "Working one disk at a time (keeping the remaining disks in the refrigerator), roll each dough portion into a 9-inch circle on a floured surface. Distribute chocolate mixture evenly over the surface of each dough circle."
+      },
+      {
+        "instruction5)": "Using a pizza cutter, slice the disk into 12 even triangular portions. Gently roll each portion, starting from the widest end, towards the narrow end. Transfer rugelach to parchment paper- or silpat-lined baking sheets. Brush the rugelach with egg; sprinkle evenly with coarse sugar."
+      },
+      {
+        "instruction6)": "Bake for 23 to 27 minutes, or until golden brown. Let cool on baking sheet for 5 minutes; transfer to wire rack to cool completely."
+      }
+    ]
+  },
+  "Pappardelle with Scallion Pesto": {
+    "type of meal": [
+      1,
+      1,
+      1
+    ],
+    "headline": "Pappardelle with Scallion Pesto",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/1503409233/Screen%20Shot%202017-08-22%20at%208.40.06%20AM.png?itok=VZy2oPYR",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Active Time": "20 Mins"
+      },
+      {
+        "Total Time": "25 Mins"
+      },
+      {
+        "Yield": "Serves 6"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "11"
+      },
+      {
+        "walnuts, divided": "1 cup"
+      },
+      {
+        "fresh basil, plus more for serving": "1 cup"
+      },
+      {
+        "scallion tops (green parts only)": "1 cup"
+      },
+      {
+        "extra-virgin olive oil": "2/3 cup"
+      },
+      {
+        "grated Parmesan, plus more for serving": "1/2 cup"
+      },
+      {
+        "chopped fresh parsley": "1/2 cup"
+      },
+      {
+        "kosher salt": "1 teaspoon"
+      },
+      {
+        "freshly ground black pepper": "1/2 teaspoon"
+      },
+      {
+        "chile": "1 fresno"
+      },
+      {
+        "garlic": "1 clove"
+      },
+      {
+        "oz.) package uncooked pappardelle (or linguine)": "1 (8-8"
+      }
+    ],
+    "contains": [
+      {
+        "Walnuts": "None"
+      },
+      {
+        "Basil": "None"
+      },
+      {
+        "More": "None"
+      },
+      {
+        "For": "None"
+      },
+      {
+        "Scallion": "None"
+      },
+      {
+        "Tops": "None"
+      },
+      {
+        "Olive": "None"
+      },
+      {
+        "Oil": "None"
+      },
+      {
+        "More": "None"
+      },
+      {
+        "For": "None"
+      },
+      {
+        "Parsley": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Ground": "None"
+      },
+      {
+        "Black": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Chile": "None"
+      },
+      {
+        "Garlic": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "5"
+      },
+      {
+        "instruction1)": "Preheat oven to 350\u00b0."
+      },
+      {
+        "instruction2)": "Spread walnuts on a rimmed baking sheet and toast in oven for 10-12 minutes (rotating occasionally), or until fragrant. Let cool."
+      },
+      {
+        "instruction3)": "In a food processor, combine \u00be cup walnuts, basil, scallion tops, olive oil, parmesan, parsley, chile, garlic, salt, and pepper. Process until smooth."
+      },
+      {
+        "instruction4)": "Cook according to package instructions for al dente; drain pasta, reserving about 1/2 cup cooking liquid."
+      },
+      {
+        "instruction5)": "In a bowl, combine pasta, pesto, and reserved cooking liquid, 1-2 tablespoons at a time, until pesto coats pasta and enough water has been added to loosen up the noodles. Coarsely chop remaining \u00bc cup walnuts. Serve pasta topped with walnuts and additional grated Parmesan, as desired. Serve immediately, or keep in an airtight container in the refrigerator for up to 5 days."
+      }
+    ]
+  },
+  "Whole Roasted Chicken with Sweet Potatoes, Fennel, and Apple": {
+    "type of meal": [
+      0,
+      1,
+      1
+    ],
+    "headline": "Whole Roasted Chicken with Sweet Potatoes, Fennel, and Apple",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/mr_chicken_23.jpg?itok=FhQaAIz_",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Active Time": "20 Mins"
+      },
+      {
+        "Total Time": "2 Hours 40 Mins"
+      },
+      {
+        "Yield": "Serves 4-6"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "12"
+      },
+      {
+        "shiitake mushrooms, cleaned and stemmed": "2 cups"
+      },
+      {
+        "sweet potatoes, cut into 1- to 2-inch cubes": "2 medium"
+      },
+      {
+        "apples (such as Honeycrisp), cored and chopped": "2 large"
+      },
+      {
+        "bulb, coarsely chopped": "1 fennel"
+      },
+      {
+        "extra-virgin olive oil, divided": "6 tablespoons"
+      },
+      {
+        "Kosher salt, divided": "3 teaspoons"
+      },
+      {
+        "freshly ground black pepper, divided": "1 teaspoon"
+      },
+      {
+        "whole chicken": "1 (5-lb.)"
+      },
+      {
+        "sliced": "1 lemon,"
+      },
+      {
+        "sprigs": "5 thyme"
+      },
+      {
+        "sprigs": "5 rosemary"
+      },
+      {
+        "cloves": "4 garlic"
+      }
+    ],
+    "contains": [
+      {
+        "And": "None"
+      },
+      {
+        "Sweet": "None"
+      },
+      {
+        "Cut": "None"
+      },
+      {
+        "To": "None"
+      },
+      {
+        "As": "None"
+      },
+      {
+        "And": "None"
+      },
+      {
+        "Olive": "None"
+      },
+      {
+        "Oil": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Ground": "None"
+      },
+      {
+        "Black": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Whole": "None"
+      },
+      {
+        "Chicken": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "6"
+      },
+      {
+        "instruction1)": "Preheat oven to 425\u00b0 ."
+      },
+      {
+        "instruction2)": "On a rimmed baking sheet, toss mushrooms, sweet potatoes, fennel, and apples with 3 tablespoons oil; sprinkle with 1 teaspoon salt and \u00bd teaspoon pepper. The sheet pan will be crowded, but roasting will shrink their size."
+      },
+      {
+        "instruction3)": "Dry chicken thoroughly with paper towels. Rub top with remaining 3 tablespoons extra-virgin olive oil. Sprinkle inside and outside of chicken evenly with remaining 2 teaspoons salt and \u00bd teaspoon pepper."
+      },
+      {
+        "instruction4)": "Stuff chicken cavity with lemon slices, thyme sprigs, rosemary sprigs, and garlic cloves."
+      },
+      {
+        "instruction5)": "Place chicken, breast side up, on top of the vegetable mixture on the sheet pan."
+      },
+      {
+        "instruction6)": "Roast at 425\u00b0 for 25 minutes. Reduce oven temperature to 325\u00b0; continue roasting, rotating pan occasionally, until a meat thermometer inserted in thickest part of thigh registers 165\u00b0F to 170\u00b0F, another 90-95 minutes. Let stand 15 minutes before carving."
+      }
+    ]
+  },
+  "Cornflake-Apple Pancakes": {
+    "type of meal": [
+      1,
+      0,
+      1
+    ],
+    "headline": "Cornflake-Apple Pancakes",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/1506364155/Cornflake-Apple%20Pancakes.jpeg?itok=YLC3GhoZ",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Active Time": "25 Mins"
+      },
+      {
+        "Total Time": "35 Mins"
+      },
+      {
+        "Yield": "Serves 4-6"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "12"
+      },
+      {
+        "cups milk": "1 3/4"
+      },
+      {
+        "vanilla extract": "1 teaspoon"
+      },
+      {
+        "eggs": "2 large"
+      },
+      {
+        "all-purpose flour": "2 cups"
+      },
+      {
+        "finely-ground Cornflakes cereal, plus more for garnish (optional)": "1 cup"
+      },
+      {
+        "granulated sugar": "1/4 cup"
+      },
+      {
+        "baking powder": "1 teaspoon"
+      },
+      {
+        "ground cinnamon": "1 teaspoon"
+      },
+      {
+        "kosher salt": "1/4 teaspoon"
+      },
+      {
+        "apples (such as Grannysmith), peeled and grated (about 1 \u00bd cups)": "2 medium"
+      },
+      {
+        "for frying": "Canola oil,"
+      },
+      {
+        "for garnish (optional)": "Powdered sugar,"
+      }
+    ],
+    "contains": [
+      {
+        "Milk": "None"
+      },
+      {
+        "Vanilla": "None"
+      },
+      {
+        "Eggs": "None"
+      },
+      {
+        "Flour": "None"
+      },
+      {
+        "More": "None"
+      },
+      {
+        "For": "None"
+      },
+      {
+        "Sugar": "None"
+      },
+      {
+        "Powder": "None"
+      },
+      {
+        "Ground": "None"
+      },
+      {
+        "Cinnamon": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "As": "None"
+      },
+      {
+        "And": "None"
+      },
+      {
+        "For": "None"
+      },
+      {
+        "For": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "2"
+      },
+      {
+        "instruction1)": "Whisk together the milk, vanilla, and eggs in a large bowl. Whisk together the flour, cornflakes, sugar, baking powder, cinnamon, and salt in a medium bowl. Gradually whisk the egg mixture into the flour mixture until just combined. Using a rubber spatula, fold in the grated apples."
+      },
+      {
+        "instruction2)": "Heat oil in a large skillet over medium-high heat. Spoon about \u00bc cup batter per pancake into pan; cook until golden brown, about 2-3 minutes per side. Serve immediately."
+      }
+    ]
+  },
+  "Carne Asada": {
+    "type of meal": [
+      0,
+      1,
+      1
+    ],
+    "headline": "Carne Asada",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/carneasada.jpg?itok=lzpsEtUS",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Active Time": "30 Mins"
+      },
+      {
+        "Total Time": "4 Hours 30 Mins"
+      },
+      {
+        "Yield": "Serves 4 (serving size: about 4 oz. beef)"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "5"
+      },
+      {
+        "Marinade": "Carne Asada"
+      },
+      {
+        "kosher salt": "2 teaspoons"
+      },
+      {
+        "pounds skirt steak (about 1 in. thick)": "1 1/2"
+      },
+      {
+        "extra-virgin olive oil": "1 tablespoon"
+      },
+      {
+        "coarse sea salt": "1/4 teaspoon"
+      }
+    ],
+    "contains": [
+      {
+        "Salt": "None"
+      },
+      {
+        "Steak": "None"
+      },
+      {
+        "Olive": "None"
+      },
+      {
+        "Oil": "None"
+      },
+      {
+        "Sea": "None"
+      },
+      {
+        "Salt": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "3"
+      },
+      {
+        "instruction1)": "Set aside 1/2 cup of the marinade. Place remaining 1 cup marinade and kosher salt in a large ziplock plastic freezer bag. Add steak; seal bag, and massage to ensure steak is well coated. Chill 4 to 12 hours."
+      },
+      {
+        "instruction2)": "Preheat grill to high (450\u00b0F to 500\u00b0F). Remove steak from marinade; discard marinade. Pat steak dry with a paper towel. Place steak on a grill rack coated with cooking spray. Grill, uncovered, to desired degree of doneness, about 5 minutes per side for medium-rare. Remove from grill, and let stand 5 minutes."
+      },
+      {
+        "instruction3)": "Cut steak against the grain into thin slices. Drizzle with oil, and sprinkle with sea salt. Serve with warmed reserved marinade, tortillas, queso fresco, avocado slices, radish slices, and fresh cilantro leaves."
+      }
+    ]
+  },
+  "Molten Dark Chocolate Cakes": {
+    "type of meal": [
+      1,
+      0,
+      1
+    ],
+    "headline": "Molten Dark Chocolate Cakes",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_400x300%2Fpublic%2Fmolten-dark-chocolate-ckaes.jpg%3Fitok%3DoVr_-WLY&w=300&h=226&c=sc&poi=face&q=85",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Prep Time": "25 Mins"
+      },
+      {
+        "Cook Time": "10 Mins"
+      },
+      {
+        "Yield": "Serves 6"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "10"
+      },
+      {
+        "bittersweet chocolate, chopped": "7 ounces"
+      },
+      {
+        "(1 stick) unsalted butter, cut into pieces": "8 tablespoons"
+      },
+      {
+        "all-purpose flour": "1/2 cup"
+      },
+      {
+        "salt": "Pinch of"
+      },
+      {
+        "instant espresso powder": "2 teaspoons"
+      },
+      {
+        "eggs": "2 large"
+      },
+      {
+        "egg yolks": "2 large"
+      },
+      {
+        "heavy cream": "1/4 cup"
+      },
+      {
+        "vanilla extract": "1 teaspoon"
+      },
+      {
+        "confectioners' sugar": "1/2 cup"
+      }
+    ],
+    "contains": [
+      {
+        "Butter": "None"
+      },
+      {
+        "Cut": "None"
+      },
+      {
+        "Flour": "None"
+      },
+      {
+        "Salt": "None"
+      },
+      {
+        "Powder": "None"
+      },
+      {
+        "Eggs": "None"
+      },
+      {
+        "Egg": "None"
+      },
+      {
+        "Cream": "None"
+      },
+      {
+        "Vanilla": "None"
+      },
+      {
+        "Sugar": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "3"
+      },
+      {
+        "instruction1)": "Preheat oven to 450\u00baF. Butter 6 3/4-cup ramekins. Place chocolate and butter in a saucepan over lowest heat setting and cook, stirring constantly with a flexible spatula, until melted and smooth. Remove from heat, pour into a bowl and let cool slightly."
+      },
+      {
+        "instruction2)": "In a small bowl, mix flour, salt and espresso powder together with a fork. In a large bowl, using a wire whisk, beat eggs, yolks, cream and vanilla. Whisk in confectioners' sugar, just until combined. Fold chocolate mixture into egg mixture, then stir in flour mixture, just until combined (you shouldn't see any traces of flour, but try not to mix more than necessary)."
+      },
+      {
+        "instruction3)": "Use a spoon to divide chocolate mixture among ramekins. Place ramekins on a baking sheet and bake for 10 minutes. Remove and let stand for 1 minute. Run a knife around inside edge of each ramekin and invert cakes onto plates. Serve hot, with a dusting of confectioners' sugar, if desired."
+      }
+    ]
+  },
+  "Parmesan Crusted Baked Fish": {
+    "type of meal": [
+      0,
+      1,
+      1
+    ],
+    "headline": "Parmesan Crusted Baked Fish",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_400x300%2Fpublic%2F1536189426%2FParmesan_Crusted_Baked_Fish_141.jpg%3Fitok%3D24YJcei4&w=300&h=226&c=sc&poi=face&q=85",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Prep Time": "10 Mins"
+      },
+      {
+        "Cook Time": "12 Mins"
+      },
+      {
+        "Yield": "4 servings (Serving size: 6 oz)"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "11"
+      },
+      {
+        "Japanese panko breadcrumbs": "3/4 cup"
+      },
+      {
+        "Parmesan cheese finely grated": "3/4 cup"
+      },
+      {
+        "unsalted butter room temperature": "3 tablespoons"
+      },
+      {
+        "mayonnaise": "3 tablespoons"
+      },
+      {
+        "onions, green tops only thinly sliced": "3 green"
+      },
+      {
+        "Worchestershire sauce": "1 teaspoon"
+      },
+      {
+        "Tabasco or other hot pepper sauce": "1/2 teaspoon"
+      },
+      {
+        "tablespoons lemon juice freshly squeezed (approx. 1/2 lemon)": "1 1/2"
+      },
+      {
+        "pepper to taste": "salt and"
+      },
+      {
+        "fish fillets approx. 6 oz; 1/2 to 3/4 inch thick": "4 white"
+      },
+      {
+        "fresh flat-leaf parsely finely chopped": "2 tablespoons"
+      }
+    ],
+    "contains": [
+      {
+        "Japanese": "None"
+      },
+      {
+        "Cheese": "None"
+      },
+      {
+        "Butter": "None"
+      },
+      {
+        "Green": "None"
+      },
+      {
+        "Tops": "None"
+      },
+      {
+        "Tabasco": "None"
+      },
+      {
+        "Or": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "Lemon": "None"
+      },
+      {
+        "Lemon": "None"
+      },
+      {
+        "Pepper": "None"
+      },
+      {
+        "To": "None"
+      },
+      {
+        "Fish": "None"
+      },
+      {
+        "To": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "7"
+      },
+      {
+        "instruction1)": "Preheat oven to 425\u00b0. Lightly butter a baking dish or individual grain dishes for the fillets."
+      },
+      {
+        "instruction2)": "In medium bowl, mix together the cheese, breadcrumbs, butter, mayonnaise, green onions, Worcestershire sauce, Tabasco and lemon juice; season to taste with salt and pepper. Set aside until needed."
+      },
+      {
+        "instruction3)": "Pat the fish fillets completely dry with paper towels (removing the moisture ensures they won't get mushy while baking); season generously with salt and pepper. Arrange the fish in a lightly buttered baking dish or individual gratin dishes."
+      },
+      {
+        "instruction4)": "Spread about 3 tablespoons of the cheese mixture over each fillet."
+      },
+      {
+        "instruction5)": "Place in preheated oven and bake until bubbly and almost cooked through, about 8 to 10 minutes. Temperature should be approximately 125-130\u00b0 when tested at thickest part of fillet with meat thermometer."
+      },
+      {
+        "instruction6)": "Move fillets to broiler for 2 to 3 minutes to brown and crisp the tops. When done, the fish should flake easily with a fork."
+      },
+      {
+        "instruction7)": "Remove from oven, garnish with fresh parsley and serve immediately."
+      }
+    ]
+  },
+  "Greek Pizza": {
+    "type of meal": [
+      1,
+      1,
+      1
+    ],
+    "headline": "Greek Pizza",
+    "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ay/08/greek-pizza-ay-1875551-x.jpg?itok=FQjGkaJM",
+    "labels": [
+      {
+        "num_of_labels": "3"
+      },
+      {
+        "Prep Time": "10 Mins"
+      },
+      {
+        "Cook Time": "20 Mins"
+      },
+      {
+        "Yield": "4 Servings"
+      }
+    ],
+    "ingredients": [
+      {
+        "num_of_ingredients": "7"
+      },
+      {
+        "olive oil": "2 tablespoons"
+      },
+      {
+        "frozen pizza dough, thawed": "1 pound"
+      },
+      {
+        "oz.) can diced tomatoes, drained": "1 (14.5"
+      },
+      {
+        "zucchini, ends trimmed, cut in half lengthwise, thinly sliced": "1 small"
+      },
+      {
+        "dried oregano (or 2 Tbsp. fresh, chopped)": "1/2 teaspoon"
+      },
+      {
+        "feta cheese, crumbled": "8 ounces"
+      },
+      {
+        "black olives, pitted and chopped": "1/2 cup"
+      }
+    ],
+    "contains": [
+      {
+        "Olive": "None"
+      },
+      {
+        "Oil": "None"
+      },
+      {
+        "Pizza": "None"
+      },
+      {
+        "Can": "None"
+      },
+      {
+        "Tomatoes": "None"
+      },
+      {
+        "Zucchini": "None"
+      },
+      {
+        "Cut": "None"
+      },
+      {
+        "In": "None"
+      },
+      {
+        "Dried": "None"
+      },
+      {
+        "Oregano": "None"
+      },
+      {
+        "Feta": "None"
+      },
+      {
+        "Cheese": "None"
+      },
+      {
+        "Black": "None"
+      },
+      {
+        "And": "None"
+      }
+    ],
+    "instructions": [
+      {
+        "num_of_instructions": "2"
+      },
+      {
+        "instruction1)": "Preheat oven to 475\u00b0F. Brush bottom of a 16- by 11-inch rimmed baking sheet with 1 Tbsp. olive oil. Roll out and press pizza dough evenly to cover bottom of pan. (If dough resists at first, let it rest for a few minutes and then continue.) Spread tomatoes over dough. Sprinkle with zucchini slices, then with oregano. Scatter cheese and olives on top."
+      },
+      {
+        "instruction2)": "Bake until underside of crust is golden (you can lift up pizza with a spatula and take a peek) and cheese is lightly browned, 15 to 20 minutes. Drizzle with remaining 1 Tbsp. olive oil. Let pizza stand for 5 minutes on a wire rack before slicing and serving."
+      }
+    ]
+  }
+}
