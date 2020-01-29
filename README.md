@@ -3,7 +3,7 @@
 ### Android application project in software structure course.
 ![enter image description here](http://i.picasion.com/pic89/b92385da3f1df4b41cc0da1feeb2883a.gif)  
 After the basic app registration, the user will answer a preliminary questionnaire.  
-The questionnaire provides the app information to build a basic user preference profile such as preferred ingredients, classification (vegan, etc.), allergies, etc.  
+The questionnaire provides the app information to build a basic user preference profile such as preferred ingredients,   classification (vegan, etc.), allergies, etc.  
 Subsequently, the app will show the user photos of meals.  
 The user will swipe right if he liked the meal or left if he didn't like.  
 The system saves the user's choices and so it will know how to adapt it to a future recipe for the user.  
